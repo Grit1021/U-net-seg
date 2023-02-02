@@ -4,7 +4,7 @@ This is a task about cardiac MRI segmentation.We adopt different network structu
 The codes can be accessed in the master branch:https://github.com/Grit1021/U-net-seg/tree/master.
 
 ## Supplementary materials
--More details can be accessed in the U-net_pj_article.
+- More details can be accessed in the U-net_pj_article.
 
 
 
